@@ -8,6 +8,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontSize: {
+        titleHeader: '2rem',
+      },
       colors: {
         redTheme: "#a22e51",
       },
